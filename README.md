@@ -1,4 +1,4 @@
-Hello World! This is le-ai-js speaking!
+Hello World! This is ai-js speaking!
 =======================================
 
 ai-js is a javascript framework for Artificial Intelligence
